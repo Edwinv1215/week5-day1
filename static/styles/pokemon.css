@@ -1,0 +1,26 @@
+body{
+    background-color: #861639;
+    border-top: 2px solid rgb(120, 61, 61);
+}
+
+.mb-3{
+    background-color: hsl(0, 54%, 31%);
+    font-size: 18px;
+    color: rgb(83, 17, 23);
+  
+    
+}
+
+
+.btn-primary{
+    background-color: rgb(97, 24, 43);
+    width: 110px;
+    height: 40px;
+    border: 2px solid rgb(85, 17, 17);
+    color: rgb(129, 25, 53);
+    
+}
+
+.form-control{
+    background-color: rgb(122, 29, 37);
+}
